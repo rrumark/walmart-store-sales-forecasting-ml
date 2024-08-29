@@ -1,4 +1,8 @@
 # Walmart-Store-sales-Forecasting
+![image](https://github.com/user-attachments/assets/79cba22f-28d9-4003-8fd1-cd1641f47cf4)
+
+
+
 
 ## **Datasets**
 Utilized the Walmart Recruiting - Store Sales Forecasting dataset obtained from Kaggle. The dataset includes the following CSV files:
